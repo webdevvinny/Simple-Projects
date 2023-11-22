@@ -8,6 +8,8 @@ float num1, num2, result;
 
 int main () {
 
+      //THIS IS A SIMPLE CALCULATOR FOR MY NEW SKILLS IN CPP
+
       do
       {
       
